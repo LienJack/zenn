@@ -6,6 +6,8 @@ topics: ["claudecode", "agent"]
 published: true
 ---
 
+![Claude Code ソースコード解説シリーズ 第1章: アーキテクチャ](/images/01-engineering-architecture/882c8adb42f8-01-cover-engineering-architecture.jpg)
+
 # 『Claude Code ソースコード解析シリーズ』第1章｜エンジニアリングアーキテクチャ
 
 Claude Code を初めて見た人の多くは、「コードを書けるチャットボックス」と理解するだろう。
